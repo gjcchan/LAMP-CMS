@@ -1,0 +1,23 @@
+
+#Header {
+	position:relative;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top:60px;
+	width:800px;
+	height:100px;
+	border: 1px solid #39F;
+	text-align: center;
+}	
+
+#abc {	
+	position:relative;
+	text-align: center;
+	padding-top:350px;
+	padding-right:750px;
+
+}
+
+#loginButton {
+	margin-left: 10px;
+}

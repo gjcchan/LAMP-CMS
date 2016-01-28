@@ -1,0 +1,22 @@
+#Main_table {
+	position:relative;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top:10px;
+	width:auto;
+	height:auto;
+	border: 1px solid #39F;
+	text-align: center;
+}	
+
+#Entry_box {
+	position:relative;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 10px;
+	padding-left: 10px;
+	width:auto;
+	height:auto;
+	border: 1px solid #39F;
+}	
